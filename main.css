@@ -1,0 +1,13 @@
+body {
+  background-color: #ffffff;
+}
+header {
+  margin-bottom: 10px;
+  font-size: 5vw;
+  font-weight: 900;
+}
+button {
+  margin: 0 auto;
+  margin-top: 2px;
+  width: 100%;
+}
